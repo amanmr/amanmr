@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Aman Mishra</h1>
+<h3 align="center">I work on Full Stack Projects</h3>
+
+<h4 align="center"> 📫 For collaborations, Contact me on <a href="linkedin.com/in/amanmr1">**LinkedIn**</a> </h4>
+
+
 
 <!--
 **amanmr/amanmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
